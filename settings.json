@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "Gami bot",
   "bot-account": {
-    "username": "Mr Beast",
-    "password": "",
+    "username": "MrBeast",
+    "password": "noobs",
     "type": "offline"
   },
   "server": {
-    "ip": "raghavboiz.aternos.me",
-    "port": 22435,
+    "ip": "TotemGZ.aternos.me",
+    "port": 48096,
     "version": "",
     "try-creative": false
   },
@@ -29,7 +29,7 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 12,
       "messages": [
         "I'm a regular player",
         "Subscribe to Slobos!",
