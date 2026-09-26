@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "TotemGZ.aternos.me",
-    "port": 48096,
+    "ip": "Mendingmc.aternos.me",
+    "port": 40034,
     "version": "",
     "try-creative": false
   },
@@ -20,15 +20,15 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "mainplayer8"
     },
     "anti-afk": {
       "enabled": true,
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
-      "repeat": true,
+      "enabled": false,
+      "repeat": false,
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
@@ -45,7 +45,7 @@
     "enabled": true,
     "circle-walk": {
       "enabled": true,
-      "radius": 4,
+      "radius": 10,
       "speed": 3000
     },
     "look-around": {
